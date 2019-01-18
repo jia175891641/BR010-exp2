@@ -4,13 +4,8 @@
 123
 【BR010-示例代码】功能:通过面板实时修改参数，并在屏幕上显示当前的值，循环的使用，变量的使用
 # 程序预览
-![image](https://github.com/jia175891641/BR010-One_Axis_CNC_drilling_System_fengduan/blob/master/菜单配置.PNG)
-![image](https://github.com/jia175891641/BR010-One_Axis_CNC_drilling_System_fengduan/blob/master/%E7%A8%8B%E5%BA%8F%E9%A2%84%E8%A7%88.PNG)
-# 打孔流程
-分为4段,每段深度和速度可以通过用户的中文菜单调整。
-其中第3段可以设置循环打孔，循环次数可调，比如第3段深度为9mm 用户设定分3次打，那么系统会自动均分为每次打3mm ,并每次均分都有自动退出排削 
-适合打长孔。
-查看详细说明书
+![image](https://github.com/jia175891641/BR010-exp1/blob/master/%E7%A8%8B%E5%BA%8F%E9%A2%84%E8%A7%88.png)
+
 # 程序下载
       点击 右上方 绿色的`Clone or download` 再点 Download Zip 下载后解压 
       直接双击 .bent  文件，上位机会自动识别或打开，如果需要烧录进控制器，还需要购买烧录器,烧录器驱动
