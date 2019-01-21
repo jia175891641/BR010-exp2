@@ -4,6 +4,7 @@
 【BR010-示例代码】功能:通过面板实时修改参数，并在屏幕上显示当前的值，循环的使用，变量的使用
 # 程序预览
 ![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E7%A8%8B%E5%BA%8F%E9%A2%84%E8%A7%88.png)
+![image](https://github.com/jia175891641/BR010-exp2/blob/master/kk.gif)
 
 # 程序下载
       点击 右上方 绿色的`Clone or download` 再点 Download Zip 下载后解压 
