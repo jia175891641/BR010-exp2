@@ -1,10 +1,19 @@
 
 
 # 简介
-【BR010-示例代码】功能:通过面板实时修改参数，并在屏幕上显示当前的值，循环的使用，变量的使用
+此程序有以下功能:
+1：在X0口安装一个感应器,当X0计数满n次后蜂鸣器报警x秒
+2：n次可以通过按键实时调整
+3：可通过F3 F4 实时调整n值(感应次数)，可通过F5 F6实时调整 蜂鸣器(举个例子)的延迟时间
+4：通过面板实时修改参数，并在屏幕上显示当前的值，此功能在说明书上并未详细说明
+   如何在开机就能显示变量的值？ 其实只要在上位机的【界面预定义】->【主界面设置】 按如图红框内设置，
+   提示:[2a]是有特殊含义的 2代表显示格式 a代表显示的变量 大家可以设置5a 4a 7a 0a 等看看效果
 # 程序预览
 ![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E7%A8%8B%E5%BA%8F%E9%A2%84%E8%A7%88.png)
-![image](https://github.com/jia175891641/BR010-exp2/blob/master/kk.gif)
+客户视频:
+![image](https://github.com/jia175891641/BR010-exp2/blob/master/1548072774484.gif)
+实时调参数视频:
+![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E5%AE%9E%E6%97%B6%E8%B0%83%E5%8F%82%E6%95%B0%E6%95%88%E6%9E%9C.gif)
 
 # 程序下载
       点击 右上方 绿色的`Clone or download` 再点 Download Zip 下载后解压 
