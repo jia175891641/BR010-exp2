@@ -17,11 +17,11 @@
 ![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E5%9B%BE%E7%89%87/%E5%AE%9E%E6%97%B6%E8%B0%83%E5%8F%82%E6%95%B0%E6%95%88%E6%9E%9C.gif)
 
 # 程序下载  
-点击 右上方 绿色的`Clone or download` 再点 Download Zip 下载后解压 
-直接双击 .bent  文件，上位机会自动识别或打开，如果需要烧录进控制器，还需要购买烧录器,烧录器驱动
-温馨提示:厂家发货时候，能提供免费烧录服务，欢迎有志之仕在Github上分享您的作品
+如是手机阅读，直接看上面的程序预览图更直观，如果是你是电脑访问并要下载的话，点击 右上方 绿色的`Clone or download` 再点 Download Zip 下载后解压 
+并找到bent文件，直接双击 .bent  文件(或右键点击Bent文件，打开方式选择Update)，上位机会自动识别或打开，如果需要烧录进控制器，还需要购买烧录器,并且安装烧录器驱动
+温馨提示:厂家发货时候，能提供免费烧录服务，欢迎有志之仕在Github上分享您的代码
 # 资料参考  
-如第一次接触此控制器，请先看完以下3个教程，尤其是`在线编程方法`： 
+如第一次接触此控制器，请先看完以下3个教程： 
 
 视频教程： 
 BR010基本功能介绍：  
@@ -31,9 +31,7 @@ BR010在线编程方法：
 BR010脱机编程方法：   
 [![Watch the video](https://github.com/jia175891641/BR010-VB-/blob/master/%E6%8D%95%E8%8E%B7.PNG)](https://cloud.video.taobao.com//play/u/140795238/p/1/e/6/t/1/50066686709.mp4)   
 
-[![Watch the video](https://github.com/jia175891641/BR010-VB-/blob/master/%E6%8D%95%E8%8E%B7.PNG)](http://v.youku.com/v_show/id_XMTM4Nzc3NDc5Ng==.html?spm=a2h3j.8428770.3416059.1)  
-
-
+售后：
 淘宝店铺(右键新窗口中打开)：[BR010可编程一体机](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-4148446461.35.4c0494c0LgyZdJ&id=522079098086)  
 官方网站(右键新窗口中打开):[浙江浦江奔腾数控设备有限公司](http://www.btcnc.net/ "点击前往")  
 上位机下载(右键另存为)：[易语言2.0](http://www.btcnc.net/web/2moto/Downloads/softBR010.zip "右键再点另存为")  
