@@ -10,10 +10,10 @@
    ![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E5%9B%BE%E7%89%87/%E4%B8%BB%E7%95%8C%E9%9D%A2.PNG)
    提示:[2a]是有特殊含义的 2代表显示格式 a代表显示的变量 大家可以设置5a 4a 7a 0a 等看看效果  
 # 程序预览  
-![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E5%9B%BE%E7%89%87/%E7%A8%8B%E5%BA%8F%E9%A2%84%E8%A7%88.png)
+![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E5%9B%BE%E7%89%87/%E7%A8%8B%E5%BA%8F%E9%A2%84%E8%A7%88.png)  
 客户视频:  
-![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E5%9B%BE%E7%89%87/%E5%AE%A2%E6%88%B7%E8%A7%86%E9%A2%91.gif)
-实时调参数视频:  
+![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E5%9B%BE%E7%89%87/%E5%AE%A2%E6%88%B7%E8%A7%86%E9%A2%91.gif)  
+实时调参数视频(加载较慢,请耐心等待):  
 ![image](https://github.com/jia175891641/BR010-exp2/blob/master/%E5%9B%BE%E7%89%87/%E5%AE%9E%E6%97%B6%E8%B0%83%E5%8F%82%E6%95%B0%E6%95%88%E6%9E%9C.gif)
 
 # 程序下载  
